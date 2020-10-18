@@ -4,7 +4,7 @@ This pages is made for OS assignment
 
 [WEB](https://marioekaputta.github.io/os202/) 
 [GitHub](https://github.com/marioekaputta/os202/)
-[Rank](https://github.com/stevenciayadi/os202/blob/master/TXT/myrank.txt)
+[Rank](https://github.com/marioekaputta/os202/blob/master/TXT/myrank.txt)
 ## [My Log](TXT/mylog.txt)
 <br> <hr> <br>
 ## Operating Systems Weekly Top Ten List
