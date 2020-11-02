@@ -53,3 +53,8 @@ ZCZC W05  70 L02 Zoom related
 ZCZC W05 120 L10 Assignment (General)
 ZCZC W05  90 L05 GSGS Related
 ZCZC W05  60 L09 Asdos: Asking, learning
+
+ZCZC W06   5 L01 SCELE related
+ZCZC W06 100 L02 Zoom related
+ZCZC W06 150 L10 Assignment (General)
+ZCZC W06  90 L05 GSGS Related
