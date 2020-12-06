@@ -67,3 +67,7 @@ ZCZC W07  90 L05 GSGS Related
 ZCZC W08 180 L10 Assignment (General)
 ZCZC W08 120 L05 GSGS Related
 ZCZC W08  60 L23 Discord (Gmeet actually): discussion
+
+ZCZC W09 300 L10 Assignment (General)
+ZCZC W09  60 L23 Discord (Gmeet): discussion
+ZCZC W09  60 L02 ZOOM related
